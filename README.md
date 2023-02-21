@@ -1,3 +1,3 @@
 #Demo
 
-Description contents go here.
+Description contents.
